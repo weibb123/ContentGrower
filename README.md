@@ -13,4 +13,6 @@ Grow my social media account... AI/Data Science approach
 
  However, we do not know the algorithms of instagram, youtube, nor tiktok. My guess is that it has to be the thumbnails + title generate more clicks.
 
+ ```git clone https://github.com/weibb123/ContentGrower.git```
+
  ```pip install -r /path/to/requirements.txt```
